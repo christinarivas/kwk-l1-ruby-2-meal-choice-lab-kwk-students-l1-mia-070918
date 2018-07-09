@@ -9,7 +9,13 @@ def breakfast(bfood = "eggs")
   puts "breakfast choice: #{bfood}"
 end
 
+def lunch (lfood = "meat")
+  puts "lunch choice: #{lfood}"
+end
 
+def dinner (dfood = "chicken")
+  puts "lunch choice: #{dfood}"
+end
 
 
 
