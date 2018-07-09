@@ -14,7 +14,8 @@ def lunch (lfood = "meat")
 end
 
 def dinner (dfood = "chicken")
-  puts "lunch choice: #{dfood}"
+  puts "dinner
+  choice: #{dfood}"
 end
 
 
